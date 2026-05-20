@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- ======================= HEADER / BANNER ======================= -->
 
-<!--
-**shivani349/shivani349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shivani;AI%2FML+Developer+%7C+Full-Stack+Developer;Building+Intelligent+Real-Time+Systems;Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" height="420"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+```yaml
+Name: Shivani
+Role: Btech Computer Science Student
+Experience: Building Real-Time Intelligent Systems
+Focus Areas:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Full-Stack Development
+  - Scalable Applications
+
+Current Projects:
+  - Fraud Detection System
+  - AI Interview Evaluation Platform
+
+Tech Interests:
+  - LSTMs
+  - BERT
+  - Full Stack Development
+  - Data Structure and Algorithm 
+  - Real-Time AI Systems
